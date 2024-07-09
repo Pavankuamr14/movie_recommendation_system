@@ -24,7 +24,7 @@ Created a simple user interface for users to input their favorite movies and get
 To replicate our project or integrate it into your own system, follow these steps:
 
 # Clone the repository to your local machine.
-- clone(`git clone https://github.com/yourusername/movie-recommendation-system.git`)
+- clone (`git clone https://github.com/yourusername/movie-recommendation-system.git`)
 
 
 
