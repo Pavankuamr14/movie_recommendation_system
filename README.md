@@ -1,6 +1,8 @@
 ## movie_recommendation_system
+**Movie Recommendation System - Content-Based Approach**
+This project focuses on building a movie recommendation system using a content-based filtering approach. Content-based recommendation systems suggest items to users based on the attributes of the items and the user's preferences. 
 ## Introduction
-Welcome to the repository for our movie recommendation system using a content-based filtering approach! In this project, we recommend movies to users based on the attributes of the movies such as genre, director, cast, plot, and keywords. This README will guide you through the project structure and provide essential information for understanding and replicating our work.
+Welcome to the repository for our movie recommendation system using a content-based filtering approach! In this project, we recommend movies to users based on the attributes of the movies such as genre, director, cast,and keywords. This README will guide you through the project structure and provide essential information for understanding and replicating our work.
 
 ## Project's Overview
 Our project focuses on leveraging content-based filtering algorithms to recommend movies. Here's a brief overview of the key components:
