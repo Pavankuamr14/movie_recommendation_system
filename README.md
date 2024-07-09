@@ -1,4 +1,4 @@
-**movie_recommendation_system**
+## movie_recommendation_system
 ## Introduction
 Welcome to the repository for our movie recommendation system using a content-based filtering approach! In this project, we recommend movies to users based on the attributes of the movies such as genre, director, cast, plot, and keywords. This README will guide you through the project structure and provide essential information for understanding and replicating our work.
 
